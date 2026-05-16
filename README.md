@@ -1,2 +1,4 @@
 # Web-Project
-Web development and programming project.
+Web development project.
+Author - Vikas Kr.Sharma
+
