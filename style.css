@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg,#4facfe,#00f2fe);
+
+}
+
+.login-box{
+    width: 350px;
+    background: rgb(202, 233, 244);
+    padding: 50px;
+    border-radius: 14px;
+    box-shadow: 0px 0px 30px rgba(0,0,100,0.7);
+    text-align: center;
+}
+
+.login-box h1{
+    margin-bottom: 10px;
+    color: black;
+    }
+
+    .login-box p{
+        margin-bottom: 20px;
+        color: gray;
+        
+    }
+
+.login-box input{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    outline: none;
+}
+
+.options{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px 0;
+    font-size: 14px;
+}
+
+.options label{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.options input[type="checkbox"]{
+    width: 16px;
+    height: 16px;
+    margin: 0;
+}
+
+.options a{
+    text-decoration: none;
+    color: #4facfe;
+}
+
+button{
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    background: #1977ca;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover{
+    background: #61aae6;
+}
+
+.signup{
+    margin-top: 20px;
+    font-size: 14px;
+}
