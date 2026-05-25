@@ -17,8 +17,8 @@ https://vks-5.github.io/Web-Project/
 * Forgot Password link
 
 ## ⚙️ Technologies Used
-- HTML
-- CSS
+* HTML
+* CSS
 
 ## 📸 Screenshot
 ![Sign IN page](Sign-In.png)
